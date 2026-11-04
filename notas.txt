@@ -1,5 +1,8 @@
 Capitulo 1: Introduccion a Git
 Capitulo 2: Flujo de trabajo basico
 Capitulo 3: Repositorios remotos
+Me interesa aprender desarrollo de aplicaciones web.
+Me gustaría aprender administración de bases de datos
+ y análisis de datos.
 
 otro cap
